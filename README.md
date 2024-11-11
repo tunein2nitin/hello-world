@@ -1,9 +1,2 @@
-# hello-world
-This is a test repository created for learning purpose
-
-
-This is the first change done for this project.
-
-new line added.
-
-check 123
+[IBM Hacktoberfest 2024 Badge]: #
+<img src="ibmhacktoberfest2024.png" width="200">
